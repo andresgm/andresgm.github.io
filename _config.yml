@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: andresgm.org
+description: Associate Professor of Mechanical Engineering. Bogotá. (technology, education, design)
+email: angonzal@uniandes.edu.co
+url: "http://andresgm.org" # the base hostname & protocol for your site
+twitter_username: andresgm_org
+github_username:  andresgm
+
+# Build settings
+markdown: kramdown
+
+theme: jekyll-theme-slate
