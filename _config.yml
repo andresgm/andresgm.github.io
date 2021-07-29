@@ -7,11 +7,12 @@
 
 # Site settings
 title: andresgm.org
-description: Associate Professor of Mechanical Engineering. Bogotá. (technology, education, design)
+description: Associate Professor of Mechanical Engineering. Bogotá. (engineering education and cycling)
 email: angonzal@uniandes.edu.co
-url: "http://andresgm.org" # the base hostname & protocol for your site
+url: "https://andresgm.org" # the base hostname & protocol for your site
 twitter_username: andresgm_org
 github_username:  andresgm
+microblog_username: andresgm
 
 # Build settings
 markdown: kramdown

@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+* Mejia M, Serson D, Moura R, Carmo B, Escobar-vargas J, Gonzalez A. (2020) *Erosion Wear Evaluation Using Nektar++. Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2018* (ISBN 978-3-030-39647-3) pp. 419-428. Springer
+* Durango-Cogollo M., Garcia-Bravo J., Newell, B., Gonzalez-Mancera, A. *CFD Modeling of Hydrocyclones—A Study of Efficiency of Hydrodynamic Reservoirs.* Fluids 2020, 5, 118.
 * Reyes JC, Correal J, Gonzalez-Mancera A, Echeverry J, Gomez I, Sandoval J, Angel C., *Experimental evaluation of permeable cable-supported façades subjected to wind and earthquake loads.* Engineering Structures (ISSN 0141-0296) 214, 2020.
 * Leon J, Newell B, Krishnamurthy M, Gonzalez-Mancera A, Garcia J. *Energy Efficiency Comparison of Hydraulic Accumulators and Ultracapacitors.* Energies (ISSN 1996-1073) 13 (7), pp. 1632-1632, 2020.
 * Gomez, I., Gonzalez-Mancera, A., Newell, B., Garcia-Bravo, J., *Analysis of the Design of a Poppet Valve by Transitory Simulation*, Energies, 12 (5), pp. 889-889, 2019.
