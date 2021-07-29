@@ -18,3 +18,5 @@ microblog_username: andresgm
 markdown: kramdown
 
 theme: jekyll-theme-slate
+
+plugins: jekyll-seo-tag
