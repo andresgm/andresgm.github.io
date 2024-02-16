@@ -7,14 +7,13 @@
 
 # Site settings
 title: andresgm.org
-description: Engineering education and cycling. Bogotá.
+description: Renewable energy, IA and some cycling. Bogotá.
 email: angonzal@uniandes.edu.co
 url: "https://andresgm.org" # the base hostname & protocol for your site
-twitter_username: andresgm_org
 github_username:  andresgm
 microblog_username: andresgm
 
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minima
