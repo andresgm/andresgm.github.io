@@ -1,0 +1,4 @@
+baseURL = 'https://andresgm.org/'
+languageCode = 'en-us'
+title = 'andresgm.org'
+theme = 'ananke'
